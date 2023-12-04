@@ -1,5 +1,6 @@
 # Notifica
 ![GitHub](https://img.shields.io/github/license/usadson/notifica?style=for-the-badge)
+
 Send notifications to users using the command line.
 
 ## ⚖️ License
